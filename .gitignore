@@ -22,7 +22,6 @@ go.work
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -60,3 +59,5 @@ test-results/
 
 # Docker 
 docker/.env
+config.bat
+node_modules
